@@ -1,4 +1,4 @@
-# Clustering-Project
+# Clustering-Project: $10 Million Distribution among countries
 ## Project Overview
 This project aims to categorize countries based on socio-economic and health factors to evaluate their overall level of development. The categorization will help prioritize aid distribution to countries in dire need, ensuring strategic and effective utilization of available resources.
 
